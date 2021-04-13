@@ -1,13 +1,14 @@
-{ 
-  "eslint.alwaysShowStatus": true,
-  "vetur.validation.template": false,
-  "eslint.validate": [
-    "javascript",
-    "javascriptreact",
-    "vue"
-  ],
-  "files.eol": "auto",
-  "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
+{
+    "vetur.validation.template": false,
+    "vetur.validation.style": false,
+    "eslint.validate": [
+      "javascript",
+      "javascriptreact",
+      "vue"
+    ],
+    "files.eol": "auto",
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
   }
-}
+  
